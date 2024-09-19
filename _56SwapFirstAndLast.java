@@ -1,4 +1,4 @@
- class _56SwapFirstAndLast {
+public class _56SwapFirstAndLast {
     public static void main(String[] args) {
         String str = "hello";
         if (str.length() > 1) {
