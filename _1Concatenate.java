@@ -1,4 +1,4 @@
-public class _1Concatenate{
+class _1Concatenate{
     public static void main(String[] args) {
         //Two Approaches to do concatinate
         String s1="Hello";
